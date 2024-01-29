@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 Implementing algorithms in cpp: 
 https://github.com/MichalTaczala/algorithms/tree/main
+
+Implementing SQL queries in R and Python:
+https://github.com/MichalTaczala/data_processing_r_and_python/tree/main
