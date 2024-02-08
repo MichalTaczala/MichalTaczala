@@ -22,3 +22,6 @@ https://github.com/MichalTaczala/data_processing_r_and_python/tree/main
 
 Chess demo in Flutter:
 https://github.com/MichalTaczala/flutter_chess
+
+Age recognition app (Python, ML)
+https://github.com/MichalTaczala/age-detect-app
