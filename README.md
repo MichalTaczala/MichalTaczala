@@ -14,14 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## Algorithms
+
 Implementing algorithms in cpp: 
 https://github.com/MichalTaczala/algorithms/tree/main
+
+## Data-Science related projects
 
 Implementing SQL queries in R and Python:
 https://github.com/MichalTaczala/data_processing_r_and_python/tree/main
 
+Age recognition app (Python, ML)
+https://github.com/MichalTaczala/age-detect-app
+
+Deep learning CNN clarification (Python, Keras, Tensorflow):
+https://github.com/MichalTaczala/deep_learning_project_1
+
+Implementing Machine Learning Algorithms (Python):
+https://github.com/MichalTaczala/AML_projects
+
+
+## Flutter projects
+
 Chess demo in Flutter:
 https://github.com/MichalTaczala/flutter_chess
 
-Age recognition app (Python, ML)
-https://github.com/MichalTaczala/age-detect-app
+Shower app Flutter:
+https://github.com/MichalTaczala/showerApp
+
