@@ -45,7 +45,7 @@ https://github.com/MichalTaczala/flutter_chess
 Shower app Flutter:
 https://github.com/MichalTaczala/showerApp
 
-## Flutter+GCP+Terraform+Go project
+## Flutter+GCP+Terraform+Python project
 https://github.com/MichalTaczala/renting_parking_spaces_app
 
 
