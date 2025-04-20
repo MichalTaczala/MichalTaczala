@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 ## Main projects:
-https://cv-for.me
+https://cv-for.me (DJANGO/GCP/OPENAI)
 
-https://betterpost.ing
+https://betterpost.ing (FASTAPI/GCP/OPENAI/SENDGRID/REACT)
 
 
 
