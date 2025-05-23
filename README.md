@@ -21,11 +21,13 @@ https://cv-for.me (DJANGO/GCP/OPENAI)
 
 https://betterpost.ing (FASTAPI/GCP/OPENAI/SENDGRID/REACT)
 
+https://memohill.com (FASTAPI/GCP/OPENAI/NEXTJS)
+
 
 
 ## Algorithms
 
-Implementing algorithms in cpp: 
+Implementing algorithms in C++: 
 https://github.com/MichalTaczala/algorithms/tree/main
 
 ## Data-Science related projects
